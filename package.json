@@ -1,0 +1,19 @@
+{
+  "name": "module-platzom",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonFT/module-platzom.git"
+  },
+  "author": "John Fonseca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JhonFT/module-platzom/issues"
+  },
+  "homepage": "https://github.com/JhonFT/module-platzom#readme"
+}
